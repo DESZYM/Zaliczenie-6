@@ -1,0 +1,31 @@
+﻿  Zadanie 6.c
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(18,20): error C2143: błąd składniowy: brakuje „)” przed „?”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(18,20): error C2143: błąd składniowy: brakuje „{” przed „?”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(18,20): error C2059: błąd składniowy: „?”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(18,43): error C2059: błąd składniowy: „)”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(25,21): error C2143: błąd składniowy: brakuje „)” przed „?”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(25,21): error C2143: błąd składniowy: brakuje „;” przed „?”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(25,35): error C2059: błąd składniowy: „)”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(37,8): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(39,8): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(51,22): error C2065: "choice": niezadeklarowany identyfikator
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(53,17): error C2065: "choice": niezadeklarowany identyfikator
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(55,4): warning C4013: niezdefiniowany "Stworz_Figury"; przy założeniu, że extern zwraca int
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(55,18): error C2143: błąd składniowy: brakuje „)” przed „?”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(55,20): error C2059: błąd składniowy: „?”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(55,31): error C2059: błąd składniowy: „)”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(61,4): warning C4013: niezdefiniowany "Dodaj_Figure"; przy założeniu, że extern zwraca int
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(61,17): error C2143: błąd składniowy: brakuje „)” przed „?”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(61,19): error C2059: błąd składniowy: „?”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(61,31): error C2059: błąd składniowy: „)”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(66,4): warning C4013: niezdefiniowany "Usun_Figure"; przy założeniu, że extern zwraca int
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(66,16): error C2143: błąd składniowy: brakuje „)” przed „?”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(66,18): error C2059: błąd składniowy: „?”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(66,30): error C2059: błąd składniowy: „)”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(71,4): warning C4013: niezdefiniowany "Dodaj_Punkt_do_Figury"; przy założeniu, że extern zwraca int
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(77,4): warning C4013: niezdefiniowany "Usun_Punkt_z_Figury"; przy założeniu, że extern zwraca int
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(88,19): error C2143: błąd składniowy: brakuje „)” przed „?”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(88,21): error C2059: błąd składniowy: „?”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(88,33): error C2059: błąd składniowy: „)”
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(96,18): error C2065: "choice": niezadeklarowany identyfikator
+C:\Users\deszk\OneDrive\Szkoła\Studia\Programy\C\Programowanie - 1\Zadanie 6\Zadanie 6.c(51,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
